@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sydnie</h1>
 <h3 align="center">A cybersecurity student and front end developer</h3>
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **data structures**
 
-- 🌱 I’m currently learning **c++ and cryptography**
+- 🌱 I’m currently learning **data structures and cryptography**
 
 - 💬 Ask me about **HTML, CSS, React, C, Linux Kernal, and Python**
 
